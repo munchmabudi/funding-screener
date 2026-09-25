@@ -793,6 +793,7 @@ def generate_html(dataset):
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="refresh" content="300">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Perpetual Funding Rate Screener</title>
 <style>
@@ -1031,6 +1032,7 @@ def generate_arb_html(dataset):
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="refresh" content="300">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Funding Rate Arbitrage Screener</title>
 <style>

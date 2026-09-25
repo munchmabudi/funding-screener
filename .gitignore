@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .env
+cors_test.py
+cors_check.sh
+push_to_github.py
